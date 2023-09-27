@@ -1,1 +1,1 @@
-# RomanToInteger
+# RomanToInteger перевод римских чисел в арабские. Задача на литкоде №13.
