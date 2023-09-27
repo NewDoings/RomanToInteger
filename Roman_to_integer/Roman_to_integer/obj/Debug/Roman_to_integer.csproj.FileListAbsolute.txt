@@ -1,0 +1,7 @@
+C:\Users\Никита\source\repos\Roman_to_integer\Roman_to_integer\bin\Debug\Roman_to_integer.exe.config
+C:\Users\Никита\source\repos\Roman_to_integer\Roman_to_integer\bin\Debug\Roman_to_integer.exe
+C:\Users\Никита\source\repos\Roman_to_integer\Roman_to_integer\bin\Debug\Roman_to_integer.pdb
+C:\Users\Никита\source\repos\Roman_to_integer\Roman_to_integer\obj\Debug\Roman_to_integer.csproj.AssemblyReference.cache
+C:\Users\Никита\source\repos\Roman_to_integer\Roman_to_integer\obj\Debug\Roman_to_integer.csproj.CoreCompileInputs.cache
+C:\Users\Никита\source\repos\Roman_to_integer\Roman_to_integer\obj\Debug\Roman_to_integer.exe
+C:\Users\Никита\source\repos\Roman_to_integer\Roman_to_integer\obj\Debug\Roman_to_integer.pdb
